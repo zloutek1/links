@@ -1,6 +1,12 @@
 # links
 
 <!--ts-->
+   * [links](#links)
+      * [programming](#programming)
+      * [puzzles](#puzzles)
+
+<!-- Added by: runner, at: Tue Feb 23 20:57:47 UTC 2021 -->
+
 <!--te-->
 
 ## programming
