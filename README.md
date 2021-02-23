@@ -1,12 +1,11 @@
 <!--ts-->
-   * [links](#links)
-      * [programming](#programming)
-         * [theory](#theory)
-         * [python](#python)
-         * [clean code](#clean-code)
-      * [puzzles](#puzzles)
+   * [programming](#programming)
+      * [theory](#theory)
+      * [python](#python)
+      * [clean code](#clean-code)
+   * [puzzles](#puzzles)
 
-<!-- Added by: runner, at: Tue Feb 23 20:59:20 UTC 2021 -->
+<!-- Added by: runner, at: Tue Feb 23 21:00:29 UTC 2021 -->
 
 <!--te-->
 
