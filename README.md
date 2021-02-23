@@ -1,11 +1,18 @@
 <!--ts-->
    * [programming](#programming)
-      * [theory](#theory)
       * [python](#python)
       * [clean code](#clean-code)
+      * [refactoring](#refactoring)
+   * [UX](#ux)
+   * [tech](#tech)
+   * [linux](#linux)
+   * [excel](#excel)
    * [puzzles](#puzzles)
+   * [cooking](#cooking)
+   * [minecraft](#minecraft)
+   * [other](#other)
 
-<!-- Added by: runner, at: Tue Feb 23 21:00:29 UTC 2021 -->
+<!-- Added by: runner, at: Tue Feb 23 21:30:05 UTC 2021 -->
 
 <!--te-->
 
