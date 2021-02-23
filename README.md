@@ -7,3 +7,5 @@
   - [🔗](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq) OpenCV with Python for Image and Video Analysis from sentdex on Youtube
 - python
   - [🔗](https://calmcode.io/) Video tutorials for modern ideas and open source tools.
+- youtube
+  - [🔗](https://www.youtube.com/channel/UCC-UOdK8-mIjxBQm_ot1T-Q) Cracking The Cryptic - Vlogs explaining how to solve classic sudokus, its variant sudokus, and many other puzzles too
