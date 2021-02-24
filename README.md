@@ -29,6 +29,10 @@
 ## clean code
   - [🔗](https://www.youtube.com/playlist?list=PLRmgr1939hIXu9hNwvixUt3yHHFv0lLpi) Clean Code - Uncle Bob from UnityCoin on YouTube
 
+## logging
+  - [🔗](https://www.youtube.com/watch?v=DIzJC8wRp-s) Logging in JavaScript Best Practices by Joe Reeve
+  - [🔗](https://calmcode.io/logging/introduction.html) Logging in Python by Calmcode
+
 ## refactoring
   - [🔗](https://www.youtube.com/watch?v=KTIl1MugsSY) Beautiful Python Refactoring by Conor Hoekstra
 
