@@ -2,6 +2,7 @@
    * [programming](#programming)
       * [python](#python)
       * [clean code](#clean-code)
+      * [logging](#logging)
       * [refactoring](#refactoring)
    * [UX](#ux)
    * [tech](#tech)
@@ -12,7 +13,7 @@
    * [minecraft](#minecraft)
    * [other](#other)
 
-<!-- Added by: runner, at: Tue Feb 23 21:30:05 UTC 2021 -->
+<!-- Added by: runner, at: Wed Feb 24 20:37:06 UTC 2021 -->
 
 <!--te-->
 
