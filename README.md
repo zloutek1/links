@@ -37,6 +37,9 @@
 ## refactoring
   - [🔗](https://www.youtube.com/watch?v=KTIl1MugsSY) Beautiful Python Refactoring by Conor Hoekstra
 
+## gamedev
+  - [🔗](https://www.youtube.com/watch?v=NbSee-XM7WA) Super Fast Ray Casting in Tiled Worlds using DDA
+
 # UX
   - [🔗](https://www.youtube.com/watch?v=80H-9caP7UM) UX Design Fundamentals: What do your users really see - Billy Hollis
 
