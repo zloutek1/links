@@ -4,6 +4,7 @@
       * [clean code](#clean-code)
       * [logging](#logging)
       * [refactoring](#refactoring)
+      * [gamedev](#gamedev)
    * [UX](#ux)
    * [tech](#tech)
    * [linux](#linux)
@@ -13,7 +14,7 @@
    * [minecraft](#minecraft)
    * [other](#other)
 
-<!-- Added by: runner, at: Wed Feb 24 20:37:06 UTC 2021 -->
+<!-- Added by: runner, at: Thu Mar  4 13:52:16 UTC 2021 -->
 
 <!--te-->
 
