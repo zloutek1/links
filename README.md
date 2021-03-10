@@ -5,6 +5,7 @@
       * [logging](#logging)
       * [refactoring](#refactoring)
       * [gamedev](#gamedev)
+      * [Git](#git)
    * [UX](#ux)
    * [tech](#tech)
    * [linux](#linux)
@@ -14,7 +15,7 @@
    * [minecraft](#minecraft)
    * [other](#other)
 
-<!-- Added by: runner, at: Wed Mar 10 08:59:07 UTC 2021 -->
+<!-- Added by: runner, at: Wed Mar 10 09:57:02 UTC 2021 -->
 
 <!--te-->
 
