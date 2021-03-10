@@ -50,6 +50,7 @@
 
 # linux
   - [🔗](https://www.youtube.com/watch?v=v6JG5B-Ff1s) Installing A Desktop On Arch Linux by DistroTube
+  - [🔗](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797) ANSI Escape Sequences
 
 # excel
   - [🔗](https://www.youtube.com/watch?v=mhLVz8lQjXs) LET Function for Dynamic Reporting in Single Cell. Excel Magic Trick 1673 by ExcelIsFun
