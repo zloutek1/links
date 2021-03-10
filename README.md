@@ -41,6 +41,9 @@
 ## gamedev
   - [🔗](https://www.youtube.com/watch?v=NbSee-XM7WA) Super Fast Ray Casting in Tiled Worlds using DDA
 
+## Git
+  - [🔗](https://gitlab.com/gitlab-org/gitlab-foss/-/issues/13379#note_3959791) Per branch CI variable 
+
 # UX
   - [🔗](https://www.youtube.com/watch?v=80H-9caP7UM) UX Design Fundamentals: What do your users really see - Billy Hollis
 
