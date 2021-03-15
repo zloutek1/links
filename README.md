@@ -12,10 +12,12 @@
    * [excel](#excel)
    * [puzzles](#puzzles)
    * [cooking](#cooking)
-   * [minecraft](#minecraft)
+   * [games](#games)
+      * [minecraft](#minecraft)
+      * [minecraft dungeons](#minecraft-dungeons)
    * [other](#other)
 
-<!-- Added by: runner, at: Wed Mar 10 09:57:02 UTC 2021 -->
+<!-- Added by: runner, at: Mon Mar 15 23:58:48 UTC 2021 -->
 
 <!--te-->
 
