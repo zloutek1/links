@@ -77,6 +77,7 @@
   - [🔗](https://www.youtube.com/watch?v=tUzeYOg0uas) How to Make Loot Tables for Minecraft by BronGhast014
   - [🔗](https://www.youtube.com/watch?v=Lt-ooRGpLz4) Carpet Mod for Minecraft 1.14/1.15 - Complete Guide by gnembon
   - [🔗](https://github.com/chronosacaria/MCDungeonsWeapons) MinecraftDungeonsWeapons in minecraft resource pack
+  - [🔗](https://stevertus.com/article/custom-blocks) Custom Blocks for Minecraft 1.16
 
 ## minecraft dungeons
   - [🔗](https://www.youtube.com/watch?v=uxKgMFQBrSU) How to extract Minecraft Dungeons Files/Mobs/Bosses
