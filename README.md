@@ -56,6 +56,7 @@
 
 # linux
   - [🔗](https://www.youtube.com/watch?v=v6JG5B-Ff1s) Installing A Desktop On Arch Linux by DistroTube
+  - [🔗](https://www.youtube.com/watch?v=LGhifbn6088) Arch Linux Install and Dual Boot with Windows 10 (UEFI) | Step by Step w/ Networking | 2021 Tutorial
   - [🔗](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797) ANSI Escape Sequences
 
 # excel
