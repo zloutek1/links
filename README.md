@@ -1,23 +1,24 @@
 <!--ts-->
-   * [programming](#programming)
-      * [python](#python)
-      * [clean code](#clean-code)
-      * [logging](#logging)
-      * [refactoring](#refactoring)
-      * [gamedev](#gamedev)
-      * [Git](#git)
-   * [UX](#ux)
-   * [tech](#tech)
-   * [linux](#linux)
-   * [excel](#excel)
-   * [puzzles](#puzzles)
-   * [cooking](#cooking)
-   * [games](#games)
-      * [minecraft](#minecraft)
-      * [minecraft dungeons](#minecraft-dungeons)
-   * [other](#other)
+* [programming](#programming)
+   * [python](#python)
+   * [clean code](#clean-code)
+   * [logging](#logging)
+   * [refactoring](#refactoring)
+   * [gamedev](#gamedev)
+   * [Git](#git)
+   * [Compiler](#compiler)
+* [UX](#ux)
+* [tech](#tech)
+* [linux](#linux)
+* [excel](#excel)
+* [puzzles](#puzzles)
+* [cooking](#cooking)
+* [games](#games)
+   * [minecraft](#minecraft)
+   * [minecraft dungeons](#minecraft-dungeons)
+* [other](#other)
 
-<!-- Added by: runner, at: Fri Apr  2 16:00:52 UTC 2021 -->
+<!-- Added by: runner, at: Fri Sep 24 15:38:21 UTC 2021 -->
 
 <!--te-->
 
