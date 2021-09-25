@@ -52,6 +52,7 @@
   - [🔗](https://norvig.com/lispy.html) (How to Write a (Lisp) Interpreter (in Python))
   - [🔗](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) Structure and Interpretation of Computer Programs
   - [🔗](https://books.google.cz/books?hl=cs&lr=&id=q0c6EAAAQBAJ&oi=fnd&pg=PT6&dq=crafting+interpreters&ots=tLCdqUs8KS&sig=ksPbP3zBU_ZJDeVL1vXBQdnAaq4&redir_esc=y#v=onepage&q=crafting%20interpreters&f=false) Crafting Interpreters Book
+  - [🔗](http://www.cse.chalmers.se/~nad/publications/danielsson-norell-mixfix.html) Parsing Mixfix Operators
 
 # UX
   - [🔗](https://www.youtube.com/watch?v=80H-9caP7UM) UX Design Fundamentals: What do your users really see - Billy Hollis
