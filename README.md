@@ -53,6 +53,8 @@
   - [🔗](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) Structure and Interpretation of Computer Programs
   - [🔗](https://books.google.cz/books?hl=cs&lr=&id=q0c6EAAAQBAJ&oi=fnd&pg=PT6&dq=crafting+interpreters&ots=tLCdqUs8KS&sig=ksPbP3zBU_ZJDeVL1vXBQdnAaq4&redir_esc=y#v=onepage&q=crafting%20interpreters&f=false) Crafting Interpreters Book
   - [🔗](http://www.cse.chalmers.se/~nad/publications/danielsson-norell-mixfix.html) Parsing Mixfix Operators
+  - [🔗](https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html) Simple but Powerful Pratt Parsing in Rust
+  - [🔗](https://www.antlr.org/papers/Clarke-expr-parsing-1986.pdf) Keith Clark - The top down parsing of expressions
 
 # UX
   - [🔗](https://www.youtube.com/watch?v=80H-9caP7UM) UX Design Fundamentals: What do your users really see - Billy Hollis
