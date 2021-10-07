@@ -57,6 +57,7 @@
   - [🔗](https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html) Simple but Powerful Pratt Parsing in Rust
   - [🔗](https://www.antlr.org/papers/Clarke-expr-parsing-1986.pdf) Keith Clark - The top down parsing of expressions
   - [🔗](http://gracelang.org/documents/grace-spec-0.7.0.pdf) The Grace Programming Language - Draft Specification Version 0.7.0
+  - [🔗](http://cs.brown.edu/courses/cs173/2012/book/index.html) Programming Languages: Application and Interpretation by Shriram Krishnamurthi
 
 ## web
   - [🔗](https://threejsfundamentals.org/threejs/lessons/threejs-multiple-scenes.html) Three.js Multiple Canvases Multiple Scenes
