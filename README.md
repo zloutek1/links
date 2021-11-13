@@ -17,9 +17,10 @@
 * [games](#games)
    * [minecraft](#minecraft)
    * [minecraft dungeons](#minecraft-dungeons)
+* [wallpapers](#wallpapers)
 * [other](#other)
 
-<!-- Added by: runner, at: Thu Oct  7 14:14:06 UTC 2021 -->
+<!-- Added by: runner, at: Sat Nov 13 01:01:54 UTC 2021 -->
 
 <!--te-->
 
