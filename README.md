@@ -100,5 +100,8 @@
   - [🔗](https://www.youtube.com/watch?v=Jb-QE3Y1qUY&t=9s) Minecraft Dungeons│Datamining Tutorial
   - [🔗](https://github.com/Dokucraft/Dungeons-Level-Format) Minecraft Dungeons Level Format
 
+# wallpapers
+  - [🔗](https://dynamicwallpaper.club/) Dynamic Wallpapers for macOS Mojave 
+ 
 # other
   - [🔗](https://www.youtube.com/watch?v=7s5PCerFU6w) Veritas 8014/35-2 | tutorial | Nähmaschine / Sewing machine / Швейная машина
