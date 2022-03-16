@@ -36,6 +36,7 @@
 
 ## clean code
   - [🔗](https://www.youtube.com/playlist?list=PLRmgr1939hIXu9hNwvixUt3yHHFv0lLpi) Clean Code - Uncle Bob from UnityCoin on YouTube
+  - [🔗](https://phauer.com/2019/modern-best-practices-testing-java/) Modern Best Practices for Testing in Java
 
 ## logging
   - [🔗](https://www.youtube.com/watch?v=DIzJC8wRp-s) Logging in JavaScript Best Practices by Joe Reeve
