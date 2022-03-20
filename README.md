@@ -1,6 +1,7 @@
 <!--ts-->
 * [programming](#programming)
    * [python](#python)
+   * [java](#java)
    * [clean code](#clean-code)
    * [logging](#logging)
    * [refactoring](#refactoring)
@@ -20,7 +21,7 @@
 * [wallpapers](#wallpapers)
 * [other](#other)
 
-<!-- Added by: runner, at: Wed Mar 16 13:51:05 UTC 2022 -->
+<!-- Added by: runner, at: Sun Mar 20 22:49:24 UTC 2022 -->
 
 <!--te-->
 
