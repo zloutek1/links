@@ -34,6 +34,9 @@
   - [🔗](https://calmcode.io/) Video tutorials for modern ideas and open source tools.
   - [🔗](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq) OpenCV with Python for Image and Video Analysis from sentdex on Youtube
 
+## java
+  - [🔗](https://www.toptal.com/spring/spring-security-tutorial) Spring Security with JWT for REST API
+
 ## clean code
   - [🔗](https://www.youtube.com/playlist?list=PLRmgr1939hIXu9hNwvixUt3yHHFv0lLpi) Clean Code - Uncle Bob from UnityCoin on YouTube
   - [🔗](https://phauer.com/2019/modern-best-practices-testing-java/) Modern Best Practices for Testing in Java
