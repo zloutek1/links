@@ -37,6 +37,7 @@
 
 ## java
   - [🔗](https://www.toptal.com/spring/spring-security-tutorial) Spring Security with JWT for REST API
+  - [🔗](https://vladmihalcea.com/hibernate-lazytoone-annotation/) Hibernate LazyToOne annotation
 
 ## clean code
   - [🔗](https://www.youtube.com/playlist?list=PLRmgr1939hIXu9hNwvixUt3yHHFv0lLpi) Clean Code - Uncle Bob from UnityCoin on YouTube
